@@ -34,3 +34,13 @@ The work combines principles of:
 - Inclusive design that supports all community members.  
 - Enhanced community participation through feedback tools.  
 - Preservation of cultural and historical park elements.  
+  
+---
+
+### Note
+
+This project was completed as part of the Bachelor of Computer Science degree at the University of Waikato.  
+It is published here solely for educational and portfolio purposes, to showcase my skills in software development.  
+
+All code presented is my own work. Course-specific materials such as assignment descriptions or test data are not included to respect university policies.  
+
